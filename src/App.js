@@ -1,15 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+import Menu from "./components/Menu";
 
 function App() {
-  return (
+    console.log("APP RERE")
+    return (
     <div className="App">
-      <h1>
+        <h1>
         RPG TITLE
-      </h1>
-      <p>
-        Here's our base page, making changes
-      </p>
+        </h1>
+        <p>
+        Here's our base html.
+        </p>
+        <div>
+            <h1>
+                Menu Component:
+            </h1>
+            <Menu />
+        </div>
     </div>
   );
 }

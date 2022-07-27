@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "menu_title": "t",
+        "details": "d",
+        "options": [
+            {
+                "id": "1",
+                "text": "o1"
+            },
+            {
+                "id": "2",
+                "text": "o2"
+            }
+        ]
+    }
+]
